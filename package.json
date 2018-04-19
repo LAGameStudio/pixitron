@@ -1,22 +1,33 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-pixi",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A minimal Electron+Pixi game engine application, packed with Pixijs 4.7.1",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/h3rb/electron-pixi",
   "keywords": [
     "Electron",
+    "Pixijs",
+    "Pixi",
+    "Pixijs.com",
+    "Pixitron",
+    "lost",
+    "astronaut",
+    "lostastronaut",
+    "lostastro",
     "quick",
     "start",
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "Lost Astronaut Studios",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^1.8.4"
+    "electron": "^1.8.4",
+  },
+  "dependencies": {
+    "electron-debug": "^1.5.0"
   }
 }

@@ -1,3 +1,12 @@
+
+Pixijs.com LICENSE
+==================
+
+pixi.js is licensed under the MIT License.
+http://www.opensource.org/licenses/mit-license
+
+ELECTRON LICENSE
+
 CC0 1.0 Universal
 ==================
 

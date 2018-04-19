@@ -1,8 +1,7 @@
-# electron-quick-start
+# electron-pixi
+**Clone and run for a quick way to see Electron+Pixijs in action.**
 
-**Clone and run for a quick way to see Electron in action.**
-
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
+This is a minimal Electron+PixiJS application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation, combined with some custom Pixijs code boilerplate and voila, Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).
 
 **Use this app along with the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
 

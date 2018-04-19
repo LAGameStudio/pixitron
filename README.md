@@ -25,7 +25,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/h3rb/electron-pixi
+git clone https://github.com/LAGameStudio/electron-pixi
 # Go into the repository
 cd electron-pixi
 # Install dependencies
@@ -35,6 +35,12 @@ npm start
 ```
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+## Resources for learning PixiJS
+
+- [Learning Pixi by Kitty Kat Attack](https://github.com/kittykatattack/learningPixi) - great place to start
+- [PixiJS Tutorials from PixiJS.com](http://www.pixijs.com/tutorials) - more learnin' fun'
+- [A book on PixiJS](https://www.amazon.co.uk/Learn-Pixi-js-Interactive-Graphics/dp/1484210956) - learn by chopping trees! (or get it on a kindle) ___Learn Pixi.js: Create Great Interactive Graphics for Games and the Web Paperback – Published 5 Nov 2015___
 
 ## Resources for Learning Electron
 

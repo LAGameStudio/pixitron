@@ -3,6 +3,8 @@
 
 This is a minimal Electron-structured PixiJS application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation, combined with some custom Pixijs code boilerplate and voila!, the Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).  It's not a game, just a starting place (blank screen).
 
+Please note we've left the Electron dev console on, because you'll probably need it.  Turn it off before you release!
+
 **Use this app along with the [PixiJS tutorials](http://www.pixijs.com/tutorials) and the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
 
 This starting place for a Pixitron game is implemented in these files:

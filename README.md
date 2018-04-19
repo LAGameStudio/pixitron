@@ -40,7 +40,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 - [Learning Pixi by Kitty Kat Attack](https://github.com/kittykatattack/learningPixi) - great place to start
 - [PixiJS Tutorials from PixiJS.com](http://www.pixijs.com/tutorials) - more learnin' fun'
-- [A book on PixiJS](https://www.amazon.co.uk/Learn-Pixi-js-Interactive-Graphics/dp/1484210956) - learn by chopping trees! (or get it on a kindle) ___Learn Pixi.js: Create Great Interactive Graphics for Games and the Web Paperback – Published 5 Nov 2015___
+- [A book on PixiJS](https://www.amazon.co.uk/Learn-Pixi-js-Interactive-Graphics/dp/1484210956) - learn by chopping trees! (or get it on a kindle) ___Learn Pixi.js: Create Great Interactive Graphics for Games and the Web Paperback (Published 5 Nov 2015)___
 
 ## Resources for Learning Electron
 

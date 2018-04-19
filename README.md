@@ -1,7 +1,7 @@
 # electron-pixi
 **Clone and run for a quick way to see Electron+Pixijs in action.**
 
-This is a minimal Electron+PixiJS application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation, combined with some custom Pixijs code boilerplate and voila, Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).
+This is a minimal Electron-structured PixiJS application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation, combined with some custom Pixijs code boilerplate and voila!, the Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).  It's not a game, just a starting place (blank screen).
 
 **Use this app along with the [PixiJS tutorials](http://www.pixijs.com/tutorials) and the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
 
@@ -9,9 +9,13 @@ A basic Electron application needs just these files:
 
 - `package.json` - Points to the app's main file and lists its details and dependencies.
 - `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
+- `engine.js` - Contains a ready-to-be-extended game engine that hooks "ESC" key to "Quit"
+- `interface.js` - Keyboard and mouse wrangling
+- `drawing.js` - Where to put reusable drawing apparatus
+- `renderer.js` - Came with the [Electron Quick Start](https://github.com/electron/electron-quick-start)
 - `index.html` - A web page to render. This is the app's **renderer process**.
 
-You can learn more about each of these components within the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start).
+You can learn more about each of these components within the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) and by looking into the award-winning [PixiJS v4](http://pixijs.com).
 
 ## To Use
 
@@ -42,3 +46,4 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+(Note: PixiJS is MIT Licensed seperately but contained in this Electron app starting place)

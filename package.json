@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/h3rb/electron-pixi",
+  "repository": "https://github.com/LAGameStudio/electron-pixi",
   "keywords": [
     "Electron",
     "Pixijs",

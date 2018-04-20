@@ -1,8 +1,8 @@
 # Components
 
-Pixijs.com LICENSE
-Howlerjs.com LICENSE
-jsgamepad LICENSE
+- Pixijs.com
+- Howlerjs.com
+- jsgamepad
 
 All three are licensed under the MIT License.
 http://www.opensource.org/licenses/mit-license

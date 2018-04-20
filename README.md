@@ -1,7 +1,9 @@
 # pixitron engine
-**Clone and run for a perfect game project starting place: see Electron+Pixijs in action.**
+**Clone and run for a perfect Electron game project starting place**
 
-This is a minimal Boilerplate for Electron-structured PixiJS application based on the [Electron Quick Start](https://electronjs.org/docs/tutorial/quick-start), combined with some custom Pixijs code and voila!, the Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).  It's not a game, just a starting place.
+The Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).  It's not a game, just a starting place.
+
+This is a minimal boilerplate / starting place for making an Electron-structured PixiJS application based on the [Electron Quick Start](https://electronjs.org/docs/tutorial/quick-start), combined with some custom Pixijs code and voila!, 
 
 Comes with a gamepad console up for testing any game controllers you might have connected, and a keyboard mapping area already configured to easily bind to various special key events.   Audio is played through HTML5, but ships with Howler.js if you want something more substantial for audio wrangling
 

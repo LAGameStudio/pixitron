@@ -1,0 +1,209 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/
+v2.0 | 20110126
+License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* end of reset */
+
+
+body {
+	font-family: sans-serif;
+	padding: 14px;
+}
+
+i {
+	font-style: italic;
+}
+
+#con {
+	width: 100%;
+	height: 100%;
+}
+
+#templates {
+	display: none;
+}
+
+.nodisp {
+	display: none;
+}
+
+#button-bar {
+	display: inline-block;
+}
+
+#button-bar-box > input {
+	margin-right: 2px;
+	cursor: pointer;
+}
+
+#mode-select-box, #deadzone-box {
+	display: inline-block;
+	margin-left: 25px;
+}
+
+.gamepad-title {
+	font-weight: bold;
+	margin-bottom: 1ex;
+	display: inline-block;
+}
+
+.gamepad-mapping {
+	display: inline-block;
+}
+
+.gamepad-id {
+	height: 7ex;
+}
+.gamepad-button-container {
+	width: 24px;
+	display: inline-block;
+	margin: 0px 1px 0px 0px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.gamepad-button {
+	width: 24px;
+	height: 24px;
+	line-height: 24px;
+	border-radius: 12px;
+	background: #003000;
+	color: white;
+	margin-bottom: 0px;
+}
+
+.gamepad-button.pressed {
+	background: green;
+}
+
+.gamepad-button-label {
+	color: gray;
+	margin-top: 0px;
+}
+
+.gamepad-controls {
+	display: inline-block;
+}
+
+.gamepad-controls-center {
+	text-align: center;
+}
+
+.gamepad-buttons-box, .gamepad-axes-box {
+	text-align: center;
+}
+
+.gamepad-axis-pair-container {
+	display: inline-block;
+	text-align: center;
+	font-size: 12px;
+}
+
+.gamepad-axis-pair {
+	width: 80px;
+	height: 80px;
+	background: gray;
+	border: 2px solid black;
+	display: inline-block;
+	position: relative;
+	margin: 5px 5px 0px 5px;
+}
+
+.gamepad-circle {
+	width: 79px;
+	height: 79px;
+	border: 1px solid #ddd;
+	border-radius: 40px;
+}
+
+.gamepad-axis-pair.normalized {
+	border-radius: 40px;
+}
+
+.gamepad-axis-pair-label {
+	color: gray;
+	margin-top: 0px;
+}
+
+.gamepad-axis-pip {
+	width: 7px;
+	height: 7px;
+	border-radius: 3px;
+	background: red;
+	position: absolute;
+	border: 1px solid white;
+	left: 50%;
+	top: 50%;
+	transform: translateX(-4px) translateY(-4px);
+}
+
+.gamepad-axis-crosshair {
+	width: 7px;
+	height: 7px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translateX(-3px) translateY(-3px);
+}
+
+.gamepad-axis-crosshair-v {
+	position: absolute;
+	background: blue;
+	width: 1px;
+	height: 100%;
+	left: 3px;
+}
+
+.gamepad-axis-crosshair-h {
+	position: absolute;
+	background: blue;
+	width: 100%;
+	height: 1px;
+	top: 3px;
+}

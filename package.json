@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "electron-debug": "^1.5.0",
+    "howler": "^2.0.9",
     "pixi-display": "^1.1.1",
     "pixi.js": "^4.7.3"
   }

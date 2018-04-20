@@ -68,5 +68,5 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## License
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
-(Note: Howler.js and PixiJS are MIT Licensed seperately but contained in this Electron app starting place)
+It's a mix of MIT and CC0 1.0 (Public Domain) licensing.
+[See all licensing here](LICENSE.md)

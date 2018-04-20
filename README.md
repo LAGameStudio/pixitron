@@ -42,10 +42,10 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## What's in the soup
 
+* Includes a custom Engine class for structural organization and window setup for quickly starting a fullscreen game app in Electron
 * PixiJS cross-platform game engine for 2D and WebGL games
 * For spatial audio and audio sprites: [Howler.js](https://howlerjs.com/)
 * For gamepad support: [jsgamepad](https://github.com/beejjorgensen/jsgamepad/blob/master/index.html)
-* Includes a custom Engine organization and a default view for quickly starting a fullscreen game app in Electron
 * Great all-inclusive keyboard bindings setup
 * Z-ordering display groups for making 2.5D games
 

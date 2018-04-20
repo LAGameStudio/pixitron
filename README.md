@@ -29,9 +29,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/LAGameStudio/electron-pixi
+git clone https://github.com/LAGameStudio/pixitron
 # Go into the repository
-cd electron-pixi
+cd pixitron
 # Install dependencies
 npm install
 # Run the app

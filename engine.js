@@ -114,7 +114,7 @@ EngineSetup() {
  // Replace this with whatever...
  this.sprites = new PIXI.particles.ParticleContainer(10000, {     scale: true,     position: true,     rotation: true,     uvs: true,     alpha: true });
  this.entities = [];  // create an array to store all the sprites
- this.totalSprites = this.renderer instanceof PIXI.WebGLRenderer ? 10 : 10;
+ this.totalSprites = this.renderer instanceof PIXI.WebGLRenderer ? 100 : 10;  // size of graphic effects performance...
  for (var i = 0; i < this.totalSprites; i++) {
      // create a new Sprite
      var dude = PIXI.Sprite.fromImage('./bunny.png');

@@ -1,7 +1,9 @@
 # pixitron engine
-**Clone and run for a perfect game project starting place: see Electron+Pixijs in action.**
+**Clone and run for a perfect Electron game project starting place**
 
-This is a minimal Boilerplate for Electron-structured PixiJS application based on the [Electron Quick Start](https://electronjs.org/docs/tutorial/quick-start), combined with some custom Pixijs code and voila!, the Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).  It's not a game, just a starting place.
+The Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).  It's not a game, just a starting place.
+
+This is a minimal boilerplate / starting place for making an Electron-structured PixiJS application based on the [Electron Quick Start](https://electronjs.org/docs/tutorial/quick-start), combined with some custom Pixijs code and voila!, 
 
 Comes with a gamepad console up for testing any game controllers you might have connected, and a keyboard mapping area already configured to easily bind to various special key events.   Audio is played through HTML5, but ships with Howler.js if you want something more substantial for audio wrangling
 
@@ -38,6 +40,14 @@ npm start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
+## What's in the soup
+
+* For spatial audio and audio sprites: [Howler.js](https://howlerjs.com/)
+* For gamepad support: [jsgamepad](https://github.com/beejjorgensen/jsgamepad/blob/master/index.html)
+* Includes a custom Engine organization and a default view for quickly starting a fullscreen game app in Electron
+* Great all-inclusive keyboard bindings setup
+* Z-ordering display groups for making 2.5D games
+
 ## Resources for learning PixiJS
 
 - [Learning Pixi by Kitty Kat Attack](https://github.com/kittykatattack/learningPixi) - great place to start
@@ -58,5 +68,5 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## License
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
-(Note: PixiJS is MIT Licensed seperately but contained in this Electron app starting place)
+It's a mix of MIT and CC0 1.0 (Public Domain) licensing.
+[See all licensing here](LICENSE.md)

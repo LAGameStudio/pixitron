@@ -1,11 +1,15 @@
+# Components
 
-Pixijs.com LICENSE
-==================
+- Pixijs.com
+- Howlerjs.com
+- jsgamepad
 
-pixi.js is licensed under the MIT License.
+All three are licensed under the MIT License.
 http://www.opensource.org/licenses/mit-license
 
-ELECTRON LICENSE + electron-pixi boilerplate
+# Electron and this boilerplate
+
+Electron and Pixitron are under the following license below:
 
 CC0 1.0 Universal
 ==================

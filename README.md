@@ -1,7 +1,7 @@
 # electron-pixi
 **Clone and run for a quick way to see Electron+Pixijs in action.**
 
-This is a minimal Electron-structured PixiJS application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation, combined with some custom Pixijs code boilerplate and voila!, the Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).  It's not a game, just a starting place (blank screen).
+This is a minimal Electron-structured PixiJS application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation, combined with some custom Pixijs code boilerplate and voila!, the Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).  It's not a game, just a starting place (bunnies particle system).
 
 Please note we've left the Electron dev console on, because you'll probably need it.  Turn it off before you release!
 

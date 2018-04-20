@@ -42,6 +42,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 - [PixiJS Tutorials from PixiJS.com](http://www.pixijs.com/tutorials) - more learnin' fun'
 - [A book on PixiJS](https://www.amazon.co.uk/Learn-Pixi-js-Interactive-Graphics/dp/1484210956) - learn by chopping trees! (or get it on a kindle) ___Learn Pixi.js: Create Great Interactive Graphics for Games and the Web Paperback (Published 5 Nov 2015)___
 - [Pixi.io Shader Filters](http://pixijs.io/pixi-filters/tools/demo/) - Use shaders to spice up your 2D engine
+- [Many Examples] - http://pixijs.io/examples/#/filters/filter.js
 
 ## Resources for Learning Electron
 

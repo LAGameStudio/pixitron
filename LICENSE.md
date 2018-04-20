@@ -1,16 +1,15 @@
+# Components
 
 Pixijs.com LICENSE
-Licensed under the MIT License.
-http://www.opensource.org/licenses/mit-license
-
 Howlerjs.com LICENSE
-==================
-Licensed under the MIT License.
+jsgamepad LICENSE
+
+All three are licensed under the MIT License.
 http://www.opensource.org/licenses/mit-license
 
+# Electron and this boilerplate
 
-
-Electron LICENSE + Pixitron LICENSE below:
+Electron and Pixitron are under the following license below:
 
 CC0 1.0 Universal
 ==================

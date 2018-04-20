@@ -17,6 +17,7 @@ canvas {}
     <!-- All of the Node.js APIs are available in this renderer process. -->
     <script>
       console.log("We are using Node.js"+process.versions.node+", Chromium "+process.versions.chrome+", PixiJS and Electron "+process.versions.electron+".");
+      console.log("Firing up renderer... ESC key to quit!  Ctrl-R to reload, Shift-Ctrl-I to toggle dev console.");
       // You can also require other files to run in this process
       require('./renderer.js')
     </script>

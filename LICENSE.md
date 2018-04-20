@@ -1,11 +1,16 @@
 
 Pixijs.com LICENSE
-==================
-
-pixi.js is licensed under the MIT License.
+Licensed under the MIT License.
 http://www.opensource.org/licenses/mit-license
 
-ELECTRON LICENSE + electron-pixi boilerplate
+Howlerjs.com LICENSE
+==================
+Licensed under the MIT License.
+http://www.opensource.org/licenses/mit-license
+
+
+
+Electron LICENSE + Pixitron LICENSE below:
 
 CC0 1.0 Universal
 ==================

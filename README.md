@@ -38,6 +38,14 @@ npm start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
+## What's in the soup
+
+* For spatial audio and audio sprites: [Howler.js](https://howlerjs.com/)
+* For gamepad support: [jsgamepad](https://github.com/beejjorgensen/jsgamepad/blob/master/index.html)
+* Includes a custom Engine organization and a default view for quickly starting a fullscreen game app in Electron
+* Great all-inclusive keyboard bindings setup
+* Z-ordering display groups for making 2.5D games
+
 ## Resources for learning PixiJS
 
 - [Learning Pixi by Kitty Kat Attack](https://github.com/kittykatattack/learningPixi) - great place to start

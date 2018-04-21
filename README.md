@@ -50,7 +50,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 * Z-ordering display groups for making 2.5D games
 
 ## What's not but could be
-* [Steam API for Nodejs](https://github.com/DPr00f/steam-api-node)
+* [Steam API for Nodejs](https://github.com/DPr00f/steam-api-node) npm install --save steam-api
 
 ## Resources for learning PixiJS
 

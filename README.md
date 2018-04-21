@@ -49,6 +49,9 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 * Great all-inclusive keyboard bindings setup
 * Z-ordering display groups for making 2.5D games
 
+## What's not but could be
+* [Steam API for Nodejs](https://github.com/DPr00f/steam-api-node)
+
 ## Resources for learning PixiJS
 
 - [Learning Pixi by Kitty Kat Attack](https://github.com/kittykatattack/learningPixi) - great place to start

@@ -11,6 +11,13 @@ Please note we've left the Electron dev console on, because you'll probably need
 
 **Use this app along with the [PixiJS tutorials](http://www.pixijs.com/tutorials) and the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
 
+Getting started:
+
+1) Go through the basic quick start of Electronjs
+2) Get familiar with the Atom.io editor
+3) Clone this and run it
+4) Experiment with native building features of electron-build and related add-ons
+
 This starting place for a Pixitron game is implemented in these files:
 
 - `package.json` - Points to the app's main file and lists its details and dependencies.

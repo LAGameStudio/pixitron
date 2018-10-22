@@ -18,6 +18,8 @@ Getting started:
 3) Clone this and run it
 4) Experiment with native building features of electron-build and related add-ons
 
+Maybe this video will help: https://www.youtube.com/watch?v=Z-oN_YI3KIE
+
 This starting place for a Pixitron game is implemented in these files:
 
 - `package.json` - Points to the app's main file and lists its details and dependencies.

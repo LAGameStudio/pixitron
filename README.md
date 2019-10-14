@@ -61,6 +61,11 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## What's not but could be
 * [Steam API for Nodejs](https://github.com/DPr00f/steam-api-node) npm install --save steam-api
 
+## Resources for learning Pixitron
+
+There's a 20 video YouTube series on integrating Pixitron with a JSON back-end to host multiplayer games:
+* https://www.youtube.com/playlist?list=PLzilNkL7KAZGoeKIsDpo0CPQv7UCL_Gms
+
 ## Resources for learning PixiJS
 
 - [Learning Pixi by Kitty Kat Attack](https://github.com/kittykatattack/learningPixi) - great place to start

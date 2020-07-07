@@ -25,7 +25,7 @@
   "author": "Lost Astronaut Studios",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^1.4.15",
+    "electron": "^9.1.0",
     "electron-packager": "^12.0.1"
   },
   "dependencies": {

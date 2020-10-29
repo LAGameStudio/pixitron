@@ -1,7 +1,7 @@
 # pixitron engine
 **Clone and run for a perfect Electron game project starting place**
 
-The Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).  It's not a game, just a starting place.
+The Pixitron Game Engine by Lost Astronaut Studios (lostastronaut.com).  It's not a game, just a starting place.  As seen on YouTube: https://www.youtube.com/playlist?list=PLzilNkL7KAZGoeKIsDpo0CPQv7UCL_Gms
 
 This is a minimal boilerplate / starting place for making an Electron-structured PixiJS application based on the [Electron Quick Start](https://electronjs.org/docs/tutorial/quick-start), combined with some custom Pixijs code and voila!, 
 

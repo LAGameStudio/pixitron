@@ -25,12 +25,12 @@
   "author": "Lost Astronaut Studios",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^1.4.15",
+    "electron": ">=7.2.4",
     "electron-packager": "^12.0.1"
   },
   "dependencies": {
     "electron-debug": "^1.5.0",
-    "howler": "^2.0.9",
+    "howler": "^2.2.1",
     "pixi-display": "^1.1.1",
     "pixi.js": "^4.7.3"
   }
